@@ -1,1 +1,3 @@
-Hello, World!
+Hello, World! 
+There are a lot of interesting things to do here.
+^_^
